@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "TS",
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "T": { "item": "minecraft:string" },
+    "S": { "item": "minecraft:shears" },
+    "P": { "tag": "minecraft:planks" }
+  },
+  "result": { "item": "outfitatelier:sewing_table" }
+}

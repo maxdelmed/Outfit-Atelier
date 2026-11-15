@@ -1,0 +1,10 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "outfitatelier:item/garment_shirt" },
+  "overrides": [
+    { "predicate": { "outfitatelier:template": 0.1 }, "model": "outfitatelier:item/garment_coat" },
+    { "predicate": { "outfitatelier:template": 0.2 }, "model": "outfitatelier:item/garment_skirt" },
+    { "predicate": { "outfitatelier:template": 0.3 }, "model": "outfitatelier:item/garment_dress" },
+    { "predicate": { "outfitatelier:template": 0.4 }, "model": "outfitatelier:item/garment_cape" }
+  ]
+}

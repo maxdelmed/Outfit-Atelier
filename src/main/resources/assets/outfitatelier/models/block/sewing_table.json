@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "outfitatelier:block/sewing_table_top",
+    "side": "outfitatelier:block/sewing_table_side",
+    "bottom": "minecraft:block/oak_planks"
+  }
+}
